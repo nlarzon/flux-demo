@@ -3,3 +3,5 @@ kind: Kustomization
 resources:
 - dev-namespace.yaml
 - staging-namespace.yaml
+- prod-namespace.yaml
+
